@@ -1,0 +1,26 @@
+h3 {
+    color: #44ffdd;
+}
+
+#form-login {
+    display:inline-block;
+    width: 60%;
+}
+
+#button-entrar{
+    background-color: #44ffdd;
+    font-weight: bold;
+    color:#23272B;
+    border-color: transparent;
+    margin-left: 300;
+}
+
+#button-criarconta {
+    background-color: #23272B;
+    font-weight: bold;
+    color: #44ffdd;
+    border-color: #44ffdd;
+    border-width: 2px;
+    margin-right: 550px;
+    width: 140px;
+}

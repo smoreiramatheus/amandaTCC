@@ -1,0 +1,19 @@
+h3 {
+    color: #44ffdd;
+}
+
+#form-cadastro {
+    display:inline-block;
+    width: 60%;
+}
+
+#button-cadastrar{
+    background-color: #44ffdd;
+    font-weight: bold;
+    color:#23272B;
+    border-color: transparent;
+}
+
+#possui-cadastro {
+    color: dimgrey;
+}
